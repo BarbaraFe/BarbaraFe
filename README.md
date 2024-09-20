@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Bárbara, tenho 29 anos, sou do Brasil e trabalho como Quality Assurance (QA) Jr. Sou formada em Sistemas de Informação e estou me especializando cada vez mais na área de testes, focando em garantir a qualidade de software.</p>
+<p align="left">Meu nome é Bárbara Ferreira Jesuíno 🏳️‍🌈, tenho 29 anos, sou do Brasil e trabalho como Quality Assurance (QA) Jr. Sou formada em Sistemas de Informação e estou sempre buscando me especializar na área de testes para garantir a qualidade de software. Atualmente, estudo Qualidade de Software na EBAC - <a href="https://ebaconline.com.br/about-us" target="_blank">EBAC</a>.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024 (oficialmente)<br>📚 Atualmente estou aprendendo sobre Quality Assurance(QA)<br>🎯 Metas: Dominar uma linguagem de programação voltada para automação de testes, Implementar testes automatizados em frameworks populares e Estabelecer pipelines de CI/CD com integração de testes automatizados<br></p>
+<p align="left">✨ Criando bugs oficialmente desde 2024<br>📚 Atualmente aprendendo mais sobre Quality Assurance (QA)<br>🎯 Metas: Dominar uma linguagem de programação voltada para automação de testes, implementar testes automatizados em frameworks populares e estabelecer pipelines de CI/CD com integração de testes automatizados<br>👩‍💻 Também tenho experiência prática como UX Designer</p>
 
 ###
 
@@ -21,19 +21,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
