@@ -30,7 +30,8 @@
 
 ###
 
-![snake gif](https://github.com/BarbaraFe/BarbaraFe/blob/output/snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BarbaraFe/BarbaraFe/output/snake.svg" alt="Snake animation" />
 
 ###
-
