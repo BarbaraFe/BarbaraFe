@@ -30,7 +30,5 @@
 
 ###
 
-### 
 
-![snake gif](https://github.com/BarbaraFe/BarbaraFe/blob/output/snake.svg)
 
