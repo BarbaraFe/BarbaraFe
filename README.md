@@ -30,8 +30,7 @@
 
 ###
 
-<br clear="both">
+### 
 
-<img src="https://github.com/BarbaraFe/BarbaraFe/blob/main/snake.yml" alt="Snake animation" />
+![snake gif](https://github.com/BarbaraFe/BarbaraFe/blob/output/snake.svg)
 
-###
