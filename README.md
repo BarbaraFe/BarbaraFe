@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/baarbFe/baarbFe/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/BarbaraFe/BarbaraFe/blob/output/snake.svg)
 
 ###
 
