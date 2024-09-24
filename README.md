@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Bárbara Ferreira Jesuíno 🏳️‍🌈, tenho 29 anos, sou do Brasil e trabalho como Quality Assurance (QA) Jr. Sou formada em Sistemas de Informação e estou sempre buscando me especializar na área de testes para garantir a qualidade de software. Atualmente, estudo Qualidade de Software na EBAC - <a href="https://ebaconline.com.br/about-us" target="_blank">EBAC</a>.</p>
+<p align="left">Meu nome é Bárbara Ferreira 🏳️‍🌈, tenho 29 anos, sou do Brasil e trabalho como Quality Assurance (QA) Jr. Sou formada em Sistemas de Informação e estou sempre buscando me especializar na área de testes para garantir a qualidade de software. Atualmente, estudo Qualidade de Software na EBAC - <a href="https://ebaconline.com.br/about-us" target="_blank">EBAC</a>.</p>
 
 ###
 
