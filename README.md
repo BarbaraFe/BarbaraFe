@@ -30,8 +30,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/BarbaraFe/BarbaraFe/output/snake.svg" alt="Snake animation" />
-
-###
